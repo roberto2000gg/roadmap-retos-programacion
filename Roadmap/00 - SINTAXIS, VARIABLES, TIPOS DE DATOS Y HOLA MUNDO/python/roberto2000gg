@@ -1,0 +1,28 @@
+#Link de la página web de Python
+python_web = "https://www.python.org/"
+
+#Un comentario de una línea.
+
+#Comentarios en varias líneas
+'''Un comentario
+que se puede presentar
+en varias líneas'''
+
+#Una variable.
+peso_kg = x
+
+#Una constante.
+aceleracion_gravedad = 9.80665 #metros por segundo
+
+#Distintos tipos primitivos.
+
+year = 2024 #(int) entero
+pi = 3.1416 #(float) decimales
+profesor = "Moure Brais" #String
+alive = True #Booleano
+
+#Lenguaje
+mi_lenguaje = "Python"
+
+print = ("¡Hola, mi_lenguaje!")
+
