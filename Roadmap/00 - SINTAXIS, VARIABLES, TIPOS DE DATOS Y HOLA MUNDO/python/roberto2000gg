@@ -17,7 +17,7 @@ comentarios en varias líneas
 #Una variable.
 peso_kg = x
 
-#Una constante.
+#Una constante que en Python no existe, pero por convención se usa mayúsculas y se asigna valor.
 ACELERACION_GRAVEDAD = 9.80665 #metros por segundo
 
 #Distintos tipos primitivos.
