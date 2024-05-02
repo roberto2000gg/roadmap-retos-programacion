@@ -8,6 +8,12 @@ python_web = "https://www.python.org/"
 que se puede presentar
 en varias líneas'''
 
+"""
+También así se puede escribir
+comentarios en varias líneas
+, ok.
+"""
+
 #Una variable.
 peso_kg = x
 
