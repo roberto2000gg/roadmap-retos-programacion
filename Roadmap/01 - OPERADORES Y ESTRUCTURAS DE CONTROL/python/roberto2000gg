@@ -2,12 +2,19 @@
 
 #operadores ariméticos
 suma = 2+3
+print(suma)
 resta = 3-2
+print(resta)
 multiplicacion = 3*2
+print(multiplicacion)
 division = 4/3
-disision_result_entero = 4//3
+print(division)
+division_result_entero = 4//3
+print(division_result_entero)
 potencia = 4**4
+print(potencia)
 residuo_division = 16 % 3
+print(residuo_division)
 
 #operadores relacionales
 '''
@@ -15,10 +22,21 @@ Se emplea para comparar y establecer la relación entre ellos.
 Devuelve un valor booleano (true o false) basado en la condición.
 '''
 mayor_que = 12>2
+print(mayor_que)
 menor_que = 12<2
+print(menor_que)
 operandos_iguales == 12==12
+print(operandos_iguales)
 mayor_igual_que = 23>=21
+print(mayor_igual_que)
 menor_igual_que = 23<=21
+print(menor_igual_que)
 no_son_iguales = 3!=2
+print(no_son_iguales)
 
 #operadores bit a bit
+'''
+Los operadores a nivel de bit o bitwise operators son operadores 
+que actúan sobre números enteros pero usando su representación binaria.
+'''
+
