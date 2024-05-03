@@ -15,7 +15,7 @@ comentarios en varias líneas
 """
 
 #Una variable.
-peso_kg = x
+peso_kg = "x"
 
 #Una constante que en Python no existe, pero por convención se usa mayúsculas y se asigna valor.
 ACELERACION_GRAVEDAD = 9.80665 #metros por segundo
@@ -30,5 +30,5 @@ alive = True #Booleano
 #Lenguaje
 mi_lenguaje = "Python"
 
-print = ("¡Hola, mi_lenguaje!")
+print(f2"¡Hola, {mi_lenguaje}!")
 
