@@ -1,0 +1,24 @@
+# - Crea ejemplos utilizando todos los tipos de operadores de tu lenguaje:
+
+#operadores ariméticos
+suma = 2+3
+resta = 3-2
+multiplicacion = 3*2
+division = 4/3
+disision_result_entero = 4//3
+potencia = 4**4
+residuo_division = 16 % 3
+
+#operadores relacionales
+'''
+Se emplea para comparar y establecer la relación entre ellos. 
+Devuelve un valor booleano (true o false) basado en la condición.
+'''
+mayor_que = 12>2
+menor_que = 12<2
+operandos_iguales == 12==12
+mayor_igual_que = 23>=21
+menor_igual_que = 23<=21
+no_son_iguales = 3!=2
+
+#operadores bit a bit
